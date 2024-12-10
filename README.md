@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/<kubernetes>kubernetes<kubernetes>-#333"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 <!-- gitanimals -->
 <a href="https://github.com/devxb/gitanimals">
