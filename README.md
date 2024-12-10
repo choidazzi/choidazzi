@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"   />
 
 <!-- gitanimals -->
-<a href="https://github.com/devxb/gitanimals">0
+<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/choidazzi"/>
 </a>
   
