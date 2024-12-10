@@ -1,5 +1,5 @@
 <!-- css -->
-<style>
+<style type="text/css">
 img {
   display: inline-block;
 }
