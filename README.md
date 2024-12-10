@@ -1,3 +1,10 @@
+<!-- css -->
+<style>
+img {
+  display: inline-block;
+}
+</style>
+
 <!-- skills & tools -->
 ### Skills
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
