@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kiali-2b9af3?style=flat-square&logo=Kiali&logoColor=white"/>
 
 
 
